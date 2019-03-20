@@ -1,0 +1,47 @@
+body {
+    background-color: rgb(190, 190, 190);
+}
+
+img,
+embed,
+object,
+video {
+    max-width: 100%
+}
+
+.logo {
+    float: left;
+    width: 100px;
+    height: 100px;
+}
+
+.main-img {
+    width: 100%;
+    max-width: 1000px;
+}
+
+.media-img {
+    padding-top: 15px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+a {
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+
+p {
+    font-family: "Times New Roman", Times, serif;
+}
+
+a:link {
+    color: rgb(30, 255, 0)
+}
+
+a:visited {
+    color: rgb(26, 112, 48)
+}
